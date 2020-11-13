@@ -1,0 +1,9 @@
+git clone <url......>
+
+cd  <workspace.......>
+
+ git add . 
+
+git commit  -m   <пео╒....>
+
+git push -u origin <main......>
